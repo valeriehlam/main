@@ -2,8 +2,13 @@
 
 # website settings
 website:
-  title: "Valerie H Lam"                                # Your name
-  description: "Description to come"   # A brief slogan (optional)
+  title: "Valerie H Lam"                              
+  description: 
+  "I am a research assistant in the Shoffstall Lab at Case Western Reserve University, where I work primarily on mapping the vagus nerve through cadaveric dissection and MRI imaging.
+
+  After graduating with bachelor’s degrees in Psychology and Integrative Biology from the University of California, Berkeley, I immersed myself in diverse roles that fueled my intellectual curiosity, including teaching first-generation, low-income first graders, instructing functional human anatomy, providing behavioral and educational support in youth group interventions, and exploring the intersection of brain imaging and neuropsychological assessment in children with autism and speech disorders. Consequently, I am fascinated by the integration of novel resarch insights into clinical practice and how this improves therapeutic outcomes.
+  
+  In my spare time, I can be found exploring different coffee shops, hiking trails, or dancing."
   image: img/profpic-2025.jpeg
   
   favicon: img/favicon.png
