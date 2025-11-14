@@ -1,0 +1,30 @@
+---
+title: "Publications"
+---
+
+<style>
+.pub-list p {
+  padding-left: 2em;
+  text-indent: -2em;
+  margin-bottom: 1em;
+}
+</style>
+
+::: {.pub-list}
+Simarro Gonzalez M., Ni G., **Lam V. H.**, & Demopoulos C. (2024). [Beyond Words: An Investigation of Fine Motor Skills and the Verbal Communication Spectrum in Autism](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1379307/full). *Frontiers in Psychiatry,* 15:1379307. doi: 10.3389/fpsyt.2024.1379307
+
+Zhang J.\*, **Lam V. H.\***, & et al. (2025). [Mapping the Fascicular Morphology and Organization in Human Sciatic Nerve via High-Resolution MicroCT Imaging](https://www.biorxiv.org/content/10.1101/2025.06.28.662133v1) [Preprint]. *bioRxiv.* doi: 10.1101/2025.06.28.662133  
+\*These authors contributed equally to this work.
+
+Brunsman, B., Lunasco, L., Nuzov, N. B., **Lam V. H.**, …, & et al. (2025). [Reconstructing Human Vagal Anatomy (REVA) (CWRU & Duke) - Anatomy](https://discover.pennsieve.io/datasets/483) (Version 2) [Dataset — full dataset pending]. *Pennsieve.*
+
+Brunsman B., ..., **Lam V. H.**, ..., & et al. (2025). REVA #5: Dissecting and Measuring Cadaveric Human Vagus Nerves. *protocols.io.* doi: 10.17504/protocols.io.yemvnnb97tcg3pv1
+
+Nuzov N. B., **Lam V. H.**, …, & et al. (2025). REVA #6: 3D Tracing of Cadaveric Human Vagus Nerves. *protocols.io.* doi: 10.17504/protocols.io.dmbgpm98pgzp/v1
+
+Nuzov N. B., ..., **Lam V. H.**, ..., & et al. (2025). REVA #7: Excision of Cadaveric Human Vagus Nerves. *protocols.io.* doi: 10.17504/protocols.io.n2bvjer5r9clx/v1
+
+Brunsman B., ..., **Lam V. H.**, ..., & et al. (2025). No Two Alike: Characterizing the Immense Variation in Vagus Nerve Branch Patterns in 25 Cadavers. *NIH SPARC Phase 2 Annual Meeting,* Cleveland, OH.
+
+Griffith M., ..., **Lam V. H.**, & et al. (2025). Characterization of Ansa Cervicalis and Vagus Nerve Branch Patterns in the Carotid Triangle of Human Cadavers. *Intersections,* Cleveland, OH.
+:::

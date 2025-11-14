@@ -3,15 +3,10 @@
 # website settings
 website:
   title: "Valerie H Lam"                              
-  description: 
-  "I am a research assistant in the Shoffstall Lab at Case Western Reserve University, where I work primarily on mapping the vagus nerve through cadaveric dissection and MRI imaging.
-
-  After graduating with bachelor’s degrees in Psychology and Integrative Biology from the University of California, Berkeley, I immersed myself in diverse roles that fueled my intellectual curiosity, including teaching first-generation, low-income first graders, instructing functional human anatomy, providing behavioral and educational support in youth group interventions, and exploring the intersection of brain imaging and neuropsychological assessment in children with autism and speech disorders. Consequently, I am fascinated by the integration of novel resarch insights into clinical practice and how this improves therapeutic outcomes.
-  
-  In my spare time, I can be found exploring different coffee shops, hiking trails, or dancing."
+  description: "Website for Valerie Lam"
   image: img/profpic-2025.jpeg
-  
-  favicon: img/favicon.png
+
+  # favicon: img/favicon.png
   
   # start of the navigation bar at the top of the website
   navbar:
@@ -20,24 +15,22 @@ website:
     
     # your sub-pages
     left:
-      - text: "Projects"
-        href: projects/index.qmd
-      - text: "Photography"
-        href: photography/index.qmd
       - text: "CV"
         href: cv/index.qmd
+      - text: "Publications"
+        href: publications-page/index.qmd
+
     
     # your social media handles
     right:
       - icon: linkedin
-        href: www.linkedin.com/in/valerielam16
+        href: https://www.linkedin.com/in/valeriehlam/
       - icon: google scholar
         href: https://scholar.google.com/citations?user=Zo9XIUkAAAAJ&hl=en
       - icon: envelope
         aria-label: email
         href: "mailto:valerielam@berkeley.edu"  
   
-
 # Don't touch unless you know what you are doing :) ------------
   search: 
     location: navbar
@@ -67,7 +60,6 @@ format:
   html:
     fontsize: 1.1em
     theme: 
-      - litera
       - html/styles.scss
     toc: false
     code-link: true

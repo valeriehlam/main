@@ -1,0 +1,34 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: linkedin
+      href: www.linkedin.com/in/valerielam16
+    - icon: google scholar
+      href: https://scholar.google.com/citations?user=Zo9XIUkAAAAJ&hl=en
+    - icon: envelope
+      aria-label: email
+      href: "mailto:valerielam@berkeley.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Valerie Lam
+  
+Hi! I am a research assistant in the Shoffstall Lab at Case Western Reserve University where I am investigating the vagus nerve through cadaveric dissection and MRI imaging.
+
+After graduating with bachelor’s degrees in Psychology and Integrative Biology from the University of California, Berkeley, I explored various roles to broaden my understanding of the human psyche, including teaching first-generation, low-income first graders, understanding functional human anatomy, providing behavioral and educational support in youth group interventions, and exploring the intersection of brain imaging and neuropsychological assessment in children with autism and speech disorders.  
+
+In my spare time, you can find me trying new sports, exploring different coffee shop ambiances, or spending time with my cats, Gattaca and Nyx."
+
+Please feel free to contact me [here](mailto:valerielam@berkeley.edu). 
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+
