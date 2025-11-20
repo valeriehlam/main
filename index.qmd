@@ -5,7 +5,7 @@ about:
   image: "img/my_image.jpg"
   links:
     - icon: linkedin
-      href: www.linkedin.com/in/valerielam16
+      href: https://www.linkedin.com/in/valerielam16
     - icon: google scholar
       href: https://scholar.google.com/citations?user=Zo9XIUkAAAAJ&hl=en
     - icon: envelope
