@@ -2,7 +2,7 @@
 about:
   template: jolla
   id: about-block
-  image: "img/my_image.jpg"
+  image: "img/profpic-2025.jpeg"
   links:
     - icon: linkedin
       href: https://www.linkedin.com/in/valerielam16
