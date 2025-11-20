@@ -5,8 +5,7 @@ website:
   title: "Valerie H Lam"                              
   description: "Website for Valerie Lam"
   image: img/profpic-2025.jpeg
-
-  # favicon: img/favicon.png
+  favicon: img/logo.png
   
   # start of the navigation bar at the top of the website
   navbar:
