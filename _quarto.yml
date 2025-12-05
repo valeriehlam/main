@@ -2,8 +2,8 @@
 
 # website settings
 website:
-  title: "Valerie H Lam"                              
-  description: "Website for Valerie Lam"
+  title: "Valerie H Lam"
+  description: "Valerie Lam Profile"
   image: img/profpic-2025.jpeg
   favicon: img/logo.png
   
@@ -58,8 +58,8 @@ execute:
 format:
   html:
     fontsize: 1.1em
-    theme: 
-      - html/styles.scss
+    theme: minty
+#      - html/styles.scss
     toc: false
     code-link: true
     anchor-sections: true
