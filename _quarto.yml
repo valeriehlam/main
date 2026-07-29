@@ -41,8 +41,7 @@ website:
   page-footer: 
     left: |
       <span class="faux-block">&#169; 2023 Marvin Schmitt CC BY-SA 4.0</span>
-    center: |
-      <span class="faux-block"><a href="https://www.marvin-schmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
+#     center: |
     right: |
       <span class="faux-block"><a href="https://github.com/marvin-schmitt/quarto-website-template/">View source on GitHub</a></span>
 
