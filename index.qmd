@@ -10,7 +10,7 @@ about:
       href: https://scholar.google.com/citations?user=Zo9XIUkAAAAJ&hl=en
     - icon: envelope
       aria-label: email
-      href: "mailto:valerielam@berkeley.edu"  
+      href: "mailto:mail.valerielam@berkeley.edu"  
 ---
 
 ::: {#about-block}
@@ -25,12 +25,12 @@ In my spare time, you can find me trying new sports, exploring different coffee 
 
 :::
 
-Please feel free to contact me [here](mailto:valerielam@berkeley.edu). 
+Please feel free to contact me [here](mailto:mail.valerielam@berkeley.edu). 
 
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
-</div>
+#```{=html}
+#<div  style="margin: 30px; text-align: center;">
+#<a class="btn btn-primary" href="https://www.marvin-schmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: #15px 30px;">View the tutorial for this template (+ download link)</a>
+#</div>
 ```
 
 
