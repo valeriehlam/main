@@ -1,4 +1,8 @@
-# This file controls the settings for your Quarto template from www.marvin-schmitt.com
+# This file controls all the settings for your entire website
+# git pull
+# git commit -m "Your descriptive message here"
+# then: git push origin main
+ 
 
 # website settings
 website:
@@ -28,7 +32,7 @@ website:
         href: https://scholar.google.com/citations?user=Zo9XIUkAAAAJ&hl=en
       - icon: envelope
         aria-label: email
-        href: "mailto:mail.valerielam@berkeley.edu"  
+        href: "mailto:valerielam@berkeley.edu"  
   
 # Don't touch unless you know what you are doing :) ------------
   search: 
