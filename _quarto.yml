@@ -28,7 +28,7 @@ website:
         href: https://scholar.google.com/citations?user=Zo9XIUkAAAAJ&hl=en
       - icon: envelope
         aria-label: email
-        href: "mailto:valerielam@berkeley.edu"  
+        href: "mailto:mail.valerielam@berkeley.edu"  
   
 # Don't touch unless you know what you are doing :) ------------
   search: 
