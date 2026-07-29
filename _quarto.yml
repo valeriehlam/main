@@ -40,7 +40,7 @@ website:
     center: |
       <span class="faux-block"><a href="https://www.marvin-schmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
     right: |
-      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+      <span class="faux-block"><a href="https://github.com/marvin-schmitt/quarto-website-template/">View source on GitHub</a></span>
 
 project:
   type: website
